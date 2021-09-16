@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alipak369
-- 👀 I’m interested in python, A.i , data science
+- 👀 I’m interested in python, A.i , Data Science
 - 🌱 I’m currently learning...
 
 
